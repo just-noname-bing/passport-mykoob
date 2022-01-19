@@ -1,0 +1,23 @@
+{
+  "name": "passport-mykoob",
+  "version": "1.0.1",
+  "description": "Passport strategy for authentication with Mykoob (mykoob.com) ",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-noname-bing/passport-mykoob.git"
+  },
+  "author": "Daniils Fjodorovs <danikfedorov41@gmail.com> (https://bibabuba.boyzfromthehood.xyz)",
+  "keywords": [
+    "passport",
+    "mykoob",
+    "auth",
+    "authentication",
+    "authn",
+    "identity"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.6.1"
+  }
+}
