@@ -16,6 +16,7 @@
     "authn",
     "identity"
   ],
+  "types": "index.d.ts",
   "license": "MIT",
   "dependencies": {
     "passport-oauth2": "^1.6.1"
